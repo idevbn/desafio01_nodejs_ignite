@@ -41,7 +41,6 @@ function checksExistsTodoUserAccount(request, response, next) {
 }
 
 app.post("/users", (request, response) => {
-
   const { name, username } = request.body
 
   const userExists = users.find((user) => user.username === username)
