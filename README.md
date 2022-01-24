@@ -33,7 +33,6 @@
 The project includes the following technologies:
 
 - [NodeJS](https://nodejs.org/)
-- [TypeScript](https://typescriptlang.org/)
 - [Jest](https://jestjs.io/)
 - [Yarn](https://yarnpkg.com/)
 
